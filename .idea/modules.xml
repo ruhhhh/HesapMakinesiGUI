@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hafta4.iml" filepath="$PROJECT_DIR$/Hafta4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesiGUI/HesapMakinesiGUI.iml" filepath="$PROJECT_DIR$/HesapMakinesiGUI/HesapMakinesiGUI.iml" />
     </modules>
   </component>
 </project>
